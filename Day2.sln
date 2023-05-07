@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B07Lists", "B07Lists\B07Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B08EX_Lists", "B08EX_Lists\B08EX_Lists.csproj", "{9DF2BA48-2C34-4E7D-8C3F-B1A0C05941AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C05EXMextManager", "C05EXMextManager\C05EXMextManager.csproj", "{A50C9C5F-BA4F-491D-ADFC-51B177496B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06WeatherManager", "C06WeatherManager\C06WeatherManager.csproj", "{896B4B37-4BF8-479F-89BE-C62E741D4A24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{9DF2BA48-2C34-4E7D-8C3F-B1A0C05941AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DF2BA48-2C34-4E7D-8C3F-B1A0C05941AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DF2BA48-2C34-4E7D-8C3F-B1A0C05941AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50C9C5F-BA4F-491D-ADFC-51B177496B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50C9C5F-BA4F-491D-ADFC-51B177496B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50C9C5F-BA4F-491D-ADFC-51B177496B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50C9C5F-BA4F-491D-ADFC-51B177496B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896B4B37-4BF8-479F-89BE-C62E741D4A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896B4B37-4BF8-479F-89BE-C62E741D4A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896B4B37-4BF8-479F-89BE-C62E741D4A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896B4B37-4BF8-479F-89BE-C62E741D4A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
